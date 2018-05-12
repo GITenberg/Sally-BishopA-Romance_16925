@@ -1,0 +1,30 @@
+_repo: Sally-BishopA-Romance_16925
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thurston, E. Temple (Ernest Temple)
+    aliases:
+    - Thurston, Temple
+    - Thurston, Ernest Temple
+    birthdate: 1879
+    deathdate: 1933
+    gutenberg_agent_id: '7023'
+    url: http://www.gutenberg.org/2009/agents/7023
+    wikipedia: http://en.wikipedia.org/wiki/E._Temple_Thurston
+description: Cover -- Contents.
+gutenberg_issued: '2005-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: 'Sally Bishop: A Romance'
+url: http://www.gutenberg.org/ebooks/16925
